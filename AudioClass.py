@@ -42,8 +42,10 @@ def speak_fast(text):
 
 
 def main():  
-    text_to_speech("Testing, Testing, Testing")
-    text_to_speech("fak")
+    # text_to_
+    speak_fast("Testing, Testing, Testing")
+    # speech("Testing, Testing, Testing")
+    # text_to_speech("fak")
 
 if __name__ == "__main__":
     main()
